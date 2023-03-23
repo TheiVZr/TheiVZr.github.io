@@ -1,0 +1,84 @@
+body { 
+background-color: #125C83;	
+}
+img { 
+border-style: solid; border-width: 4px;	
+}
+.p0{ 
+font-size: 100px;
+text-align: center; 
+font-family: 'Courier New', monospace; 
+background-color: grey; 
+padding: 8px;
+border-style: solid; 
+letter-spacing: 3px
+	
+}
+.p1 {  
+font-size:60px;
+letter-spacing: 8px;
+text-decoration: underline;
+letter-spacing: 8px
+} 
+.p2 { 
+font-family: wingdings; 
+font-size:40px;
+text-align: justify; 	
+letter-spacing: 8px
+}
+.p3 {
+text-align: left; 
+font-size:40px;
+letter-spacing: 8px
+}
+.p4 { 
+border-style: solid; font-size: 400px; border-width: 20px; background-image: url(tf2.jpg); color: #FF06B5;	
+}
+.p5 { 
+text-align: center
+}
+.p6{ 
+text-align: center; 
+font-size: 60px; 
+text-decoration: underline; 
+border-bottom: 5px;  
+}
+
+.p7{ 
+font-size: 200px; 
+text-align: center; 
+color: #B5B13C	
+}
+.p8{
+font-size: 160px;
+text-align: left; 
+border-style: solid; width: 650px; 
+background-image: linear-gradient(skyblue, darkblue);
+}
+.p9{
+font-size:220px;	
+border-style: dashed double none;
+border-width: 30px;
+background-color: #EBC0E8;
+}
+.p10 {
+font-size:100px;
+border-style:solid; border-width: 5px;	
+}
+.p11{
+font-size:80px;	
+border-style: dashed double none;
+border-width: 30px;
+background-color: #d31a2c;
+}
+.p12 {
+text-align: center;
+font-size: 40px;
+}
+.p13 {
+font-size: 25px;
+text-align: justify;
+border-style: dashed groove none dotted;	
+border-width: 3px;
+background-color: grey; opacity: 0.85;
+}
